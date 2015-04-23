@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "LiveView.h"
 
 @interface ViewController ()
 
@@ -14,14 +15,12 @@
 
 @implementation ViewController
 
+#pragma mark - View controller lifecycle
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    LiveView *liveView = [[LiveView alloc] initWithFrame:self.view.bounds];
+    self.view = liveView;
 }
 
 @end
