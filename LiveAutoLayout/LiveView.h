@@ -10,4 +10,7 @@
 
 @interface LiveView : SHPAbstractView
 
+@property (strong, nonatomic) UIView *redBoxView;
+@property (strong, nonatomic) UIView *blueBoxView;
+
 @end
