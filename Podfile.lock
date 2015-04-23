@@ -1,0 +1,18 @@
+PODS:
+  - Classy (0.2.4)
+  - ClassyLiveLayout (0.6.0):
+    - Classy
+    - Masonry
+  - Masonry (0.6.1)
+
+DEPENDENCIES:
+  - Classy (~> 0.2.4)
+  - ClassyLiveLayout (~> 0.6.0)
+  - Masonry (~> 0.6.1)
+
+SPEC CHECKSUMS:
+  Classy: 8c8f835d51e20d25e9cce0d864fba5bf1cef6070
+  ClassyLiveLayout: 264876c3a64dcc732e174796bdeaa40a6b7fff3b
+  Masonry: 2cb49fd14d203d2db5ca6bb017135b235dde9980
+
+COCOAPODS: 0.36.0.rc.1
