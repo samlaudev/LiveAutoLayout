@@ -1,9 +1,4 @@
-UIView.redBox {
-    cas_marginTop 40
-    cas_marginLeft 40
-
-    cas_size 100 100
-}
+@import "variable.cas";
 
 UIView.blueBox {
     cas_marginTop 50

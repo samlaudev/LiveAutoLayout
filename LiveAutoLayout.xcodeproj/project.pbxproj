@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A6442C91AFCAA4B001263B4 /* variable.cas in Resources */ = {isa = PBXBuildFile; fileRef = 1A6442C81AFCAA4B001263B4 /* variable.cas */; };
 		1AB6503D1AE8C8D300010524 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB6503C1AE8C8D300010524 /* main.m */; };
 		1AB650401AE8C8D300010524 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB6503F1AE8C8D300010524 /* AppDelegate.m */; };
 		1AB650431AE8C8D300010524 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB650421AE8C8D300010524 /* ViewController.m */; };
@@ -30,6 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A6442C81AFCAA4B001263B4 /* variable.cas */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = variable.cas; sourceTree = "<group>"; };
 		1AB650371AE8C8D300010524 /* LiveAutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiveAutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AB6503B1AE8C8D300010524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AB6503C1AE8C8D300010524 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				1AB6503F1AE8C8D300010524 /* AppDelegate.m */,
 				1AB650411AE8C8D300010524 /* ViewController.h */,
 				1AB650421AE8C8D300010524 /* ViewController.m */,
+				1A6442C81AFCAA4B001263B4 /* variable.cas */,
 				1AB650601AE8CBA200010524 /* stylesheet.cas */,
 				1AB650441AE8C8D300010524 /* Main.storyboard */,
 				1AB650471AE8C8D300010524 /* Images.xcassets */,
@@ -244,6 +247,7 @@
 				1AB650461AE8C8D300010524 /* Main.storyboard in Resources */,
 				1AB650611AE8CBA200010524 /* stylesheet.cas in Resources */,
 				1AB6504B1AE8C8D300010524 /* LaunchScreen.xib in Resources */,
+				1A6442C91AFCAA4B001263B4 /* variable.cas in Resources */,
 				1AB650481AE8C8D300010524 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

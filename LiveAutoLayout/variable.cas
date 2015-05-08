@@ -1,0 +1,6 @@
+UIView.redBox {
+    cas_marginTop 50
+    cas_marginLeft 20
+
+    cas_size 100 100
+}
